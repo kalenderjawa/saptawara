@@ -1,5 +1,5 @@
 /**
- * 📁dinten.js
+ * 📁saptawara
  * @desc Araning Dinten Ing Jawa
  */
 
