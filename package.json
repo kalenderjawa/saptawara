@@ -29,7 +29,7 @@
     "type": "git",
     "url": "git+https://github.com/kalenderjawa/saptawara.git"
   },
-  "keywords": [],
+  "keywords": ["saptawara", "hari jawa", "nama hari jawa"],
   "author": "Equan Pr. <equan.p@gmail.com>",
   "license": "MIT",
   "bugs": {
