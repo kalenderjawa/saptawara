@@ -1,0 +1,21 @@
+{
+  "name": "saptawara",
+  "version": "1.0.0",
+  "description": "7 nama-nama hari yang dipakai dalam budaya dan Kalender Jawa.",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalenderjawa/saptawara.git"
+  },
+  "keywords": [],
+  "author": "Equan Pr. <equan.p@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalenderjawa/saptawara/issues"
+  },
+  "homepage": "https://github.com/kalenderjawa/saptawara#readme"
+}
