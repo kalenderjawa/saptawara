@@ -4,7 +4,7 @@
 
 _sapta = 7_, _wara = hari_
 
-Nama-nama hari sama dengan nama-nama yang dipakai dalam Kalender Masehi tetapi dalam budaya Jawa, hari hari ini mempunyai nilai atau bobot angka tersendiri.
+Nama-nama hari sama dengan nama-nama yang dipakai dalam Kalender Masehi tetapi dalam budaya Jawa hari-hari tersebut mempunyai nilai atau bobot angka tersendiri.
 
 | Urutan | Dino (Jawa) | Hari (Masehi) | Bobot Angka |
 | :----: | :---------: | :-----------: | :---------: |
@@ -15,3 +15,5 @@ Nama-nama hari sama dengan nama-nama yang dipakai dalam Kalender Masehi tetapi d
 |   5    |    Jemah    | Jumat          |      8     |
 | 6      |    Sebtu    | Sabtu          |      6     |
 | 7      |    Akad     | Minggu          |      9     |
+
+> Bobot angka dari hari-hari di Jawa tersebut adalah _pakem_ atau ketetapan yang berguna seperti dalam perhitungan Weton, dsb.
