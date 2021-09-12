@@ -2,9 +2,27 @@
   "name": "saptawara",
   "version": "1.0.0",
   "description": "7 nama-nama hari yang dipakai dalam budaya dan Kalender Jawa.",
-  "main": "dist/index.js",
   "type": "module",
+  "main": "lib/saptawara.min.cjs",
+  "module": "lib/saptawara.min.js",
+  "browser": "lib/saptawara.browser.min.js",
+  "exports": {
+    ".": {
+      "require": "./lib/saptawara.min.cjs",
+      "import": "./lib/saptawara.min.js",
+      "browser": "./lib/saptawara.browser.min.js"
+    },
+    "./package.json": "./package.json",
+    "./": "./"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },  
   "scripts": {
+    "build": "npx rollup --config",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,5 +35,9 @@
   "bugs": {
     "url": "https://github.com/kalenderjawa/saptawara/issues"
   },
-  "homepage": "https://github.com/kalenderjawa/saptawara#readme"
+  "homepage": "https://github.com/kalenderjawa/saptawara#readme",
+  "devDependencies": {
+    "rollup": "^2.56.3",
+    "rollup-plugin-terser": "^7.0.2"
+  }
 }
