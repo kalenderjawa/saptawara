@@ -11,13 +11,13 @@ const _JEMAH = Symbol.for("jemah");
 const _SEBTU = Symbol.for("sebtu");
 const _AKAD = Symbol.for("akad");
 
-const SENEN = { dino: "senen", urutan: 1, bobot: 5};
-const SELASA = { dino: "selasa", urutan: 2, bobot: 4 };
-const REBO = { dino: "rebo", urutan: 3, bobot: 3 };
-const KEMIS = { dino: "kemis", urutan: 4, bobot: 7 };
-const JEMAH = { dino: "jemah", urutan: 5, bobot: 8 };
-const SEBTU = { dino: "sebtu", urutan: 6, bobot: 6 };
-const AKAD = { dino: "akad", urutan: 7, bobot: 9 };
+const AKAD = { dino: "akad", urutan: 1, bobot: 5 };
+const SENEN = { dino: "senen", urutan: 2, bobot: 4};
+const SELASA = { dino: "selasa", urutan: 3, bobot: 3 };
+const REBO = { dino: "rebo", urutan: 4, bobot: 7 };
+const KEMIS = { dino: "kemis", urutan: 5, bobot: 8 };
+const JEMAH = { dino: "jemah", urutan: 6, bobot: 6 };
+const SEBTU = { dino: "sebtu", urutan: 7, bobot: 9 };
 
 const DINTEN= new Map();
 
