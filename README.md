@@ -8,12 +8,12 @@ Nama-nama hari sama dengan nama-nama yang dipakai dalam Kalender Masehi tetapi d
 
 | Urutan | Dino (Jawa) | Hari (Masehi) | Bobot Angka |
 | :----: | :---------: | :-----------: | :---------: |
-|   1    |    Senen    |     Senin     |      5      |
-|   2    |   Selasa    |    Selasa     |      4      |
-|   3    |    Rebo     |     Rabu      |      3      |
-|   4    |    Kemis    |     Kamis     |      7      |
-|   5    |    Jemah    |     Jumat     |      8      |
-|   6    |    Sebtu    |     Sabtu     |      6      |
-|   7    |    Akad     |    Minggu     |      9      |
+|   1    |    Akad     |    Minggu     |      5      |
+|   2    |    Senen    |     Senin     |      4      |
+|   3    |   Selasa    |    Selasa     |      3      |
+|   4    |    Rebo     |     Rabu      |      7      |
+|   5    |    Kemis    |     Kamis     |      8      |
+|   6    |    Jemah    |     Jumat     |      6      |
+|   7    |    Sebtu    |     Sabtu     |      9      |
 
 > Bobot angka dari hari-hari di Jawa tersebut adalah _pakem_ atau ketetapan yang berguna seperti dalam perhitungan Weton, dsb.
