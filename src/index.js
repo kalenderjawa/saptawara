@@ -3,13 +3,13 @@
  * @desc Araning Dinten Ing Jawa
  */
 
+const _AKAD = Symbol.for("akad");
 const _SENEN = Symbol.for("senen");
 const _SELASA = Symbol.for("selasa");
 const _REBO = Symbol.for("rebo");
 const _KEMIS = Symbol.for("kemis");
 const _JEMAH = Symbol.for("jemah");
 const _SEBTU = Symbol.for("sebtu");
-const _AKAD = Symbol.for("akad");
 
 const AKAD = { dino: "akad", urutan: 1, bobot: 5 };
 const SENEN = { dino: "senen", urutan: 2, bobot: 4};
@@ -21,13 +21,13 @@ const SEBTU = { dino: "sebtu", urutan: 7, bobot: 9 };
 
 const DINTEN= new Map();
 
+DINTEN.set(_AKAD, AKAD);
 DINTEN.set(_SENEN, SENEN);
 DINTEN.set(_SELASA, SELASA);
 DINTEN.set(_REBO, REBO);
 DINTEN.set(_KEMIS, KEMIS);
 DINTEN.set(_JEMAH, JEMAH);
 DINTEN.set(_SEBTU, SEBTU);
-DINTEN.set(_AKAD, AKAD);
 
 const DINTEN_ARR = [SENEN, SELASA, REBO, KEMIS, JEMAH, SEBTU, AKAD];
 
