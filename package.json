@@ -1,6 +1,6 @@
 {
   "name": "@kalenderjawa/saptawara",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "7 nama-nama hari yang dipakai dalam budaya dan Kalender Jawa.",
   "type": "module",
   "main": "lib/saptawara.min.cjs",
