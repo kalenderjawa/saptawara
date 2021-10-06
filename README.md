@@ -1,4 +1,4 @@
-# Saptawara
+# @kalenderjawa/saptawara
 
 7 nama-nama hari yang dipakai dalam budaya dan Kalender Jawa.
 
